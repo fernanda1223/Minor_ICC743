@@ -1,4 +1,5 @@
 Hola
-como estas
 estoy estudiando para el taller
 y estoy haciendo muchas lineas de prueba
+jiji
+esto si funciona
